@@ -1,18 +1,18 @@
 <a href="https://github.com/PSYCHO-PICCHI/"><img src="https://i.ibb.co/GpnjGbf/20220326-121013.jpg" alt="20220326-121013" border="0"></a>
 
 ```
-ðŸ”— pkg update
-ðŸ”— pkg upgrade
-ðŸ”— pkg install python
-ðŸ”— pkg install python2
-ðŸ”— pip2 install requests
-ðŸ”— pip2 install mechanize
-ðŸ”— pkg install git
-ðŸ”— git clone https://github.com/PSYCHO-PICCHI/BD-6-DIGIT.git
-ðŸ”— cd BD-6-DIGIT
-ðŸ”— python2 Psycho.py
+🔗 pkg update
+🔗 pkg upgrade
+🔗 pkg install python
+🔗 pkg install python2
+🔗 pip2 install requests
+🔗 pip2 install mechanize
+🔗 pkg install git
+🔗 git clone https://github.com/PSYCHO-PICCHI/BD-6-DIGIT.git
+🔗 cd BD-6-DIGIT
+🔗 python2 Psycho.py
 
-ðŸ–¤ Thank you For Using My Tools ðŸ–¤
+🖤 Thank you For Using My Tools 🖤
 
 ```
 
